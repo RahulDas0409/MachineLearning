@@ -1,0 +1,22 @@
+Heart Rate Detected,SpO2 Detected,Heart Rate,SpO2
+False,False,0,0
+True,True,63,98
+True,True,80,64
+True,True,87,98
+True,True,87,90
+True,True,95,93
+True,True,95,99
+True,True,95,99
+True,True,105,99
+True,True,95,99
+True,True,87,96
+True,True,95,99
+True,True,80,99
+True,True,95,99
+True,True,80,99
+True,True,105,99
+True,True,87,98
+True,True,105,99
+True,True,95,99
+True,True,95,97
+True,True,105,99
